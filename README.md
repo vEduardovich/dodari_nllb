@@ -49,9 +49,9 @@ AI 다국어 번역기를<br/> 일반 사람들도 쉽게 쓸수 있게 만든 �
 <br/>
 
 초보자라면,
-1. <a href='https://github.com/vEduardovich/dodari/archive/refs/heads/main.zip' title='압축 파일 다운로드' style='text-align:center'>압축 파일 다운로드</a> 클릭
+1. <a href='https://github.com/vEduardovich/dodari_nllb/archive/refs/heads/main.zip' title='압축 파일 다운로드' style='text-align:center'>압축 파일 다운로드</a> 클릭
 2. 압축해제 후 
-> - 윈도우 사용자는 start_windows.bat 더블 클릭
+> - 윈도우 사용자는 start_windows.bat 더블 클릭ㄴ
 > - 맥이나 우분투 사용자는 터미널 창에서 sh start_mac.sh 실행
 3. 처음 실행이라면 프로그램을 자동으로 설치한 후 실행합니다. 이미 설치가 되었다면 바로 실행합니다.
 
