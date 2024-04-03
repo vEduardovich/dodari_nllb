@@ -1,0 +1,7 @@
+venv
+models
+outputs
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
