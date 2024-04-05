@@ -22,7 +22,7 @@ class Dodari:
         self.target_lang = "kor_Hang"
         self.origin_lang_str = None
         self.target_lang_str = self.lang_opt[self.lang_list.index(self.target_lang)]
-        self.model_list = ['facebook/nllb-200-distilled-600M', 'facebook/nllb-200-distilled-1.3B', 'facebook/nllb-200-distilled-3.3B' ]
+        self.model_list = ['facebook/nllb-200-distilled-600M', 'facebook/nllb-200-distilled-1.3B', 'facebook/nllb-200-3.3B' ]
         self.model_opt = ["4GB 이하 - 이해할만한 퀄임. 가끔 개소리가 섞임", "4GB ~ 8GB - 가성비 좋은 퀄. 어쩔땐 꽤 좋음", "8GB이상 - 퀄이 꽤 좋아짐. 속도가 더 빨라지는건 아님"]
         self.selected_model = 'facebook/nllb-200-distilled-1.3B'
         self.model = None
